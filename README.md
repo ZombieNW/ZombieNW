@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **The Nintendo Wii**
 
-- 📫 How to reach me **ZombieNW#4103**
+- 📫 Reach me at **ZombieNW#4103** on discord.
 
-- ⚡ Fun fact **My proudest coding accomplishment is making a overly-polished clone of Pong in 3D for the Wii.**
+- ⚡ **My proudest coding accomplishment is making a overly-polished clone of Pong in 3D for the Wii.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
